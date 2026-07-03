@@ -17,6 +17,12 @@ Welcome to my GitHub profile! I'm a creative and results-driven Social Media Mar
 ---
 
 ## 🛠️ Skills
+### 📱 Social Media Management
+- Social Media Strategy
+- Content Planning & Scheduling
+- Community Management
+- Instagram & Facebook Management
+- Brand Communication
 
 ### 📱 Social Media
 - Social Media Management
