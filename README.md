@@ -38,6 +38,7 @@ Welcome to my GitHub profile! I'm a creative and results-driven Social Media Mar
 - Creative Copywriting
 - Reels & Carousel Content
 - Brand Storytelling
+Link: https://github.com/Smriti0702-star/demo-portfolio/blob/main/Five%20Spice%20Kitchen.png
 
 ### 🎯 Paid Advertising
 - Facebook Ads
