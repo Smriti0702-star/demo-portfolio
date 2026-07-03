@@ -39,6 +39,7 @@ Welcome to my GitHub profile! I'm a creative and results-driven Social Media Mar
 - Reels & Carousel Content
 - Brand Storytelling
 Link: https://github.com/Smriti0702-star/demo-portfolio/blob/main/Five%20Spice%20Kitchen.png
+Link: https://github.com/Smriti0702-star/demo-portfolio/blob/main/Le%20passage%20to%20India%20-%20Facebook%20cover%20landscape.png
 
 ### 🎯 Paid Advertising
 - Facebook Ads
