@@ -40,6 +40,9 @@ Welcome to my GitHub profile! I'm a creative and results-driven Social Media Mar
 - Brand Storytelling
 Link: https://github.com/Smriti0702-star/demo-portfolio/blob/main/Five%20Spice%20Kitchen.png
 Link: https://github.com/Smriti0702-star/demo-portfolio/blob/main/Le%20passage%20to%20India%20-%20Facebook%20cover%20landscape.png
+Link: https://www.canva.com/design/DAHNY9WH4Q4/Atwf5yTnoBRwHPyQ0FwJ6w/edit
+Link: https://www.canva.com/design/DAHMyZpIEAM/zXR-bc73d6LdKWr95eD5vA/edit
+Link: https://www.canva.com/design/DAHM0ut1Sy8/Ph19oKQF1XF5NfCJNRwGSA/edit
 
 ### 🎯 Paid Advertising
 - Facebook Ads
