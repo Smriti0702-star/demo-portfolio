@@ -32,6 +32,8 @@ Welcome to my GitHub profile! I'm a creative and results-driven Social Media Mar
 - Content Calendar Creation
 - Audience Engagement
 
+[Off Page SEO Excel sheet.xlsx](https://github.com/user-attachments/files/30048756/Off.Page.SEO.Excel.sheet.xlsx)
+
 ### ✍️ Content Creation
 - Social Media Content Writing
 - Caption Writing
